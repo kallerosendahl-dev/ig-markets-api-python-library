@@ -27,16 +27,16 @@ setup(
     # the version across setup.py and the project code, see
     # https://packaging.python.org/en/latest/development.html#single-sourcing-the-version
     # version='0.0.1',
-    version=__version__,
+    version= "0.0.9",
     description="A lightweight wrapper for the IG Markets API written in Python",
     long_description=readme(),
     # The project's main homepage.
-    url=__url__,
+    url="https://github.com/ig-python/ig-markets-api-python-library",
     # Author details
-    author=__author__,
-    author_email=__author_email__,
+    author="Femto Trader",
+    author_email="femto.trader@gmail.com",
     # Choose your license
-    license=__license__,
+    license="BSD",
     # See https://pypi.python.org/pypi?%3Aaction=list_classifiers
     classifiers=[
         # How mature is this project? Common values are
